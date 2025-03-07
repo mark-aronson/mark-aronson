@@ -23,6 +23,8 @@ As a member of the SCHARE team, I support the platform across a few areas:
 
 🔁 Research reproducibility is one of the most compelling reasons for using scripted programming for data analysis in science. I streamlined the model code and reproduced all the results for an upcoming publication from the Sgro Lab which you can find in this [repo](https://github.com/sgrolab/dictymodels). 
 
+🧫 How to use engineering design principles to understand and program biology is the main reason I went to graduate school, and an idea I became further entranced by the more I studied it. I led the writing of a current opinion [piece](https://www.sciencedirect.com/science/article/abs/pii/S2468451120300465) on strategies of using molecular noise as an engineering design principle for multicellular systems and contributed to a [review](https://www.sciencedirect.com/science/article/pii/S1084952122001392) of synthetic multicellularity with members of the Sgro Lab. 
+
 ### Getting in touch
 
 📬 You can find me on LinkedIn [here](https://www.linkedin.com/in/aronsonmark/)!
