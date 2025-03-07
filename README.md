@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mark Aronson (he/him), a bioengineer turned computational modeler with a passion for advancing performance and equity in the U.S. healthcare system by improving healthcare policy through an iterative design process of theory- and data-driven modeling. 
+🏥I'm Mark Aronson (he/him), a bioengineer turned computational modeler with a passion for advancing performance and equity in the U.S. healthcare system by improving healthcare policy through an iterative design process of theory- and data-driven modeling. 
 
 💻 Currently, I serve as a Data Scientist at the NIH's [SCHARE](https://www.nimhd.nih.gov/resources/schare/) program, housed within the [National Institute on Minority Health and Health Disparities](https://www.nimhd.nih.gov/). 
 
