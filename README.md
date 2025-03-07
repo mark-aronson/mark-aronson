@@ -1,10 +1,21 @@
-## Hi there 👋
+## Hi, hi! 👋
 
 🏥I'm Mark Aronson (he/him), a bioengineer turned computational modeler with a passion for advancing performance and equity in the U.S. healthcare system by improving healthcare policy through an iterative design process of theory- and data-driven modeling. 
 
 💻 Currently, I serve as a Data Scientist at the NIH's [SCHARE](https://www.nimhd.nih.gov/resources/schare/) program, housed within the [National Institute on Minority Health and Health Disparities](https://www.nimhd.nih.gov/). 
 
-🥼 I previously completed my Ph.D. in the [Sgro Lab](https://sgrolab.com/) at Boston University's Department of Biomedical Engineering and a short Postdoctoral Fellowship at the Howard Hughes Medical Institute's [Janelia Research Campus](https://www.janelia.org/). 
+🥼 I previously completed my Ph.D. in the [Sgro Lab](https://sgrolab.com/) at Boston University's Department of Biomedical Engineering and followed the lab for a short Postdoctoral Fellowship at the Howard Hughes Medical Institute's [Janelia Research Campus](https://www.janelia.org/). 
+
+### What I'm up to now
+
+As a member of the SCHARE team, I support the platform across a few areas:
+
+🛠️ I support the development of the [SCHARE Data Repository](https://schare-repository.nimhd.nih.gov/), where public bugs are reported and tracked [here](https://github.com/NIH-ScHARe/SDR-Public). 
+
+👨‍🏫 I help design curricula and training materials for the data science training [seminar series](https://www.nimhd.nih.gov/resources/schare/think-a-thons.html) run by the SCHARE team, which you can view on [YouTube](https://www.youtube.com/playlist?list=PLh45KKtZkG6jyqFfjoYI1mUF93OZU8_51). 
+
+📊 I provide data science and machine learning expertise to researchers performing health outcomes research on the cloud platform [Terra](https://app.terra.bio/). 
+
 
 ### Some of my past academic work
 
